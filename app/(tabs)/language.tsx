@@ -1,9 +1,9 @@
 import { StyleSheet, Text, View } from 'react-native';
 
-export default function HomeScreen() {
+export default function LanguageScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Hello World</Text>
+      <Text style={styles.text}>Language</Text>
     </View>
   );
 }
