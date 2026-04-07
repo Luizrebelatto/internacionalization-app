@@ -10,3 +10,7 @@ https://github.com/user-attachments/assets/26374319-96e2-4189-804f-bd53d380ad3f
 
 https://github.com/user-attachments/assets/b5a4f944-6647-4737-a947-5b3bb4485e9d
 
+- Language app by language device
+
+
+https://github.com/user-attachments/assets/c8a41b14-79c4-4eea-9a15-85de4881110c
